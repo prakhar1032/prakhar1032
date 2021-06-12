@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar an Android Developer and Coding Enthusiast</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar1032&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar1032" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar1032" alt="prakhar1032" /></a> </p>
