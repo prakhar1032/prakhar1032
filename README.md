@@ -1,4 +1,4 @@
-[![MasterHead]()]
+<img align="center" width="1000" height="390" src="https://github.com/prakhar1032/prakhar1032/blob/main/Untitled%20design.png"/></a>
 <h1 align="center">Hi 👋, I'm Prakhar an Android Developer and Coding Enthusiast</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
