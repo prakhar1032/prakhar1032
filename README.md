@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar1032&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar1032" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar1032" alt="prakhar1032" /></a> </p>
+<img align="right" alt="Coding" width="450"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 
 - 🌱 I’m currently learning **How To Develop E-commerce App**
 
