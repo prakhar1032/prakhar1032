@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar1032&show_icons=true&locale=en&layout=compact" alt="prakhar1032" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar1032&show_icons=true&locale=en" alt="prakhar1032" /></p>
+
+![Snake animation](https://github.com/cinthiafontoura/cinthiafontoura/blob/output/github-contribution-grid-snake.svg)
