@@ -1,6 +1,7 @@
-<img align="center" width="1000" height="390" src="https://github.com/prakhar1032/prakhar1032/blob/main/Untitled%20design.png"/></a>
+<img align="center" width="800" height="390" src="https://github.com/prakhar1032/prakhar1032/assets/68066359/6246166c-70a8-4e11-9265-a4d03a946b4d"/></a>
 <h1 align="center">Hi 👋, I'm Prakhar an Android Developer and Coding Enthusiast</h1>
 <h3 align="center">A passionate Android developer from India</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar1032&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar1032" /> </p>
